@@ -21,9 +21,13 @@ footer {
     width: 100%;
   }
 
+row {
+    padding-top: 20px;
+}
 
-
-
+.navbarNavAltMarkup {
+    padding-top: 20px;
+}
 
 figcaption {
     display: block;
