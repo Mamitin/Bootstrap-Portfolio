@@ -17,6 +17,10 @@ body {
     padding-left: 20px;
 }
 
+.navbarNavAltMarkup {
+    margin-right: 50px;
+}
+
 .ct-bg {
     background-color: whitesmoke;
     font-size: 18px;
