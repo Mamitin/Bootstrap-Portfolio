@@ -40,6 +40,9 @@ body {
     text-align: center;
 }
 
+.col {
+    text-align: center;
+}
 
 #bio-image {
     width: 200px;
@@ -48,8 +51,12 @@ body {
     padding-bottom: 10px;
 }
 
-#con-style {
-    text-align: center
+#col-style {
+    text-align: center;
+}
+
+.col-md-6 {
+    text-align: center;
 }
 
 .button-x {
