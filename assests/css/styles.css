@@ -3,6 +3,11 @@ html {
     width: 100%;
 }
 
+h2 {
+    padding: 0 15px;
+    color: whitesmoke;
+}
+
 body {
     min-height: 100%;
     padding: 0;
@@ -10,6 +15,7 @@ body {
     line-height: 150%;
     width: 100%;
     background-image: url(../images/interlaced/interlaced.png); 
+    color: #666666;
 }
 
 #a.navbar-brand {
@@ -21,11 +27,17 @@ body {
     margin-right: 50px;
 }
 
-.ct-bg {
+.main-content {
     background-color: whitesmoke;
     font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding-top: 40px;
+    padding-bottom: 100px;
+    margin-top: 30px;
+}
+
+.title {
+    text-align: center;
 }
 
 #footer {
@@ -49,6 +61,10 @@ body {
 
 img {
     max-width: 100%;
+}
+
+.card-size {
+    width: 100%;
 }
 
 .col {
